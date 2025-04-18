@@ -1,0 +1,9 @@
+REGION,TECHNOLOGY,VALUE
+SRL,HFO_Prod,50.0
+SRL,Karpowership,25.0
+SRL,Large_Hydro,50.0
+SRL,LFO_Plant,25.0
+SRL,LFO_Prod,50.0
+SRL,Medium_Hydro,50.0
+SRL,Small_Hydro,50.0
+SRL,Solar_PV,25.0
