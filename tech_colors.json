@@ -1,4 +1,7 @@
 {
+  "Biomass_Plant": "#228B22",
+  "Biomass_Prod": "#228B22",
+  "HFO_Plant": "#000000",
   "HFO_Prod": "#000000",
   "Karpowership": "#000000",
   "LFO_Plant": "#8B4513",

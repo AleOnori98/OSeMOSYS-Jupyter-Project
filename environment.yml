@@ -163,7 +163,7 @@ dependencies:
       - flatten-dict==0.4.2
       - folium==0.19.5
       - geographiclib==2.0
-      - geopandas==1.0.1
+      - geopandas>=0.13.0
       - geopy==2.4.1
       - idna==3.10
       - ipdb==0.13.13
@@ -177,10 +177,10 @@ dependencies:
       - natsort==8.4.0
       - nbformat==5.10.4
       - netcdf4==1.7.2
-      - numpy==1.23.5
+      - numpy>=1.24
       - openpyxl==3.1.5
-      - otoole==1.1.5
-      - pandas==1.5.3
+      - otoole>=1.1.5
+      - pandas>=2.1.4
       - plotly==6.0.1
       - ply==3.11
       - pulp==3.1.1
@@ -204,4 +204,3 @@ dependencies:
       - urllib3==2.4.0
       - xarray==2022.3.0
       - xyzservices==2025.1.0
-prefix: C:\Users\alessano\AppData\Local\miniconda3\envs\osemosys_env

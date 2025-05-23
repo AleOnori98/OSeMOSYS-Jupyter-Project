@@ -1,6 +1,9 @@
 REGION,TECHNOLOGY,VALUE
+SRL,Biomass_Plant,30.0
+SRL,Biomass_Prod,50.0
+SRL,HFO_Plant,25.0
 SRL,HFO_Prod,50.0
-SRL,Karpowership,25.0
+SRL,Karpowership,50.0
 SRL,Large_Hydro,50.0
 SRL,LFO_Plant,25.0
 SRL,LFO_Prod,50.0
