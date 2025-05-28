@@ -3,11 +3,13 @@
   "Biomass_Prod": "#228B22",
   "HFO_Plant": "#000000",
   "HFO_Prod": "#000000",
+  "Hydro_Bekongor": "#4da6ff",
+  "Hydro_Betmai": "#87CEFA",
+  "Hydro_BumbunaI": "#1f77b4",
+  "Hydro_BumbunaII": "#0055A4",
+  "Hydro_Singimi": "#ADD8E6",
   "Karpowership": "#000000",
   "LFO_Plant": "#8B4513",
   "LFO_Prod": "#8B4513",
-  "Large_Hydro": "#1f77b4",
-  "Medium_Hydro": "#4da6ff",
-  "Small_Hydro": "#87CEFA",
   "Solar_PV": "#FFD700"
 }
