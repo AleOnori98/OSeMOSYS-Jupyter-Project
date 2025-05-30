@@ -1,0 +1,17 @@
+REGION,TECHNOLOGY,VALUE
+SRL,Biomass_Plant,31.536
+SRL,Biomass_Prod,1.0
+SRL,HFO_Plant,31.536
+SRL,HFO_Prod,1.0
+SRL,Hydro_Bekongor,31.536
+SRL,Hydro_Betmai,31.536
+SRL,Hydro_BumbunaI,31.536
+SRL,Hydro_BumbunaII,31.536
+SRL,Hydro_Large,31.536
+SRL,Hydro_Medium,31.536
+SRL,Hydro_Singimi,31.536
+SRL,Hydro_Small,31.536
+SRL,Karpowership,31.536
+SRL,LFO_Plant,31.536
+SRL,LFO_Prod,1.0
+SRL,Solar_PV,31.536
